@@ -17,3 +17,33 @@ LasFartChecker takes into account domain prefixes and suffixes. This means that 
 If you like the idea of this extension and would like to support its development, you can buy me a coffee by following this URL link. https://botrix.live/y/@lasfar/tip
 
 In summary, LasFartChecker is an extension aimed at enhancing web browsing security by giving the user full control over the links they click, while offering the ability to "trust" certain domains for uninterrupted browsing. Despite its current limitations, it represents a step towards a safer browsing experience.
+
+# How to Install "LasFart Checker"
+
+### Google Chrome
+
+1. Download the latest version of the LasFart Checker extension.
+2. Unzip the extension file into a directory of your choice.
+3. Open Google Chrome and click on the three-dot menu icon in the top right corner.
+4. Hover over "More Tools" and click on "Extensions" from the submenu.
+5. Toggle the "Developer mode" switch in the top right corner.
+6. Click on the "Load unpacked" button that appears.
+7. Navigate to the directory where you unzipped the LasFart Checker extension and click on "Select Folder".
+
+The LasFart Checker extension should now be installed on Google Chrome.
+
+### Microsoft Edge
+
+1. Download the latest version of the LasFart Checker extension.
+2. Unzip the extension file into a directory of your choice.
+3. Open Microsoft Edge and click on the three-dot menu icon in the top right corner.
+4. Click on "Extensions".
+5. Toggle the "Developer mode" switch in the bottom left corner.
+6. Click on the "Load unpacked" button.
+7. Navigate to the directory where you unzipped the LasFart Checker extension and click on "Select Folder".
+
+The LasFart Checker extension should now be installed on Microsoft Edge.
+
+Remember to disable "Developer mode" once you're done to prevent any unwanted changes.
+
+Keep in mind that the extension can only be used in the browser where it's installed. To use it across different computers, you'll have to either install it on each computer.
